@@ -52,7 +52,7 @@ const About = () => {
                     <div className="flex items-center justify-center w-full max-w-2xl bg-[#FFF5E1] rounded-2xl shadow-sm p-2">
                         <img src={CV} alt="Sami Abbas CV" className="w-1/3 rounded shadow" />
                         <div className="text-center ml-4">
-                            <a href="path/to/cv.pdf" className="inline-flex items-center text-blue-500 hover:text-blue-700">
+                            <a href="https://www.canva.com/design/DAGIrs3WxDk/-LxdeMxft3zEhZOOqdT8rw/view?utm_content=DAGIrs3WxDk&utm_campaign=designshare&utm_medium=link&utm_source=editor" className="inline-flex items-center text-blue-500 hover:text-blue-700">
                                 <FaFilePdf className="mr-2" /> Téléchargez mon CV pour plus d'informations sur mon parcours
                             </a>
                         </div>
