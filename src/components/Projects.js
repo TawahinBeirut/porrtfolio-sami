@@ -17,17 +17,17 @@ export default function Projects() {
                 <Project
                     title="Unifree"
                     githubLink="https://github.com/TawahinBeirut/UnifreeOfficial"
-                    description="Projet de Groupe pour la SAE ou jsp quoi"
+                    description="UniFree est un projet collaboratif dans lequel nous avons créé un site d'e-learning. Ce site a été développé en utilisant React pour la partie frontend et Tailwind CSS pour le style."
                     presImage={Unifree}
                 /><Project
                     title="Fitness Guide"
                     githubLink="https://github.com/TawahinBeirut/UnifreeOfficial"
-                    description=" projet mobile permetant au utilisateur de faciliter leur chercher de salle de sport autour de chez eux en ayant les note pas etoiles des salles et la distance grace a l'api de google maps"
+                    description="Nous avons développé, mon collègue et moi, une application mobile visant à faciliter la recherche de salles de sport à proximité des utilisateurs. Cette application aide également les utilisateurs à prendre la meilleure décision possible, grâce à l'intégration de l'API Google Maps."
                     presImage={AppMobile}
                 /><Project
                     title="theia ozcar"
                     githubLink="https://github.com/TawahinBeirut/UnifreeOfficial"
-                    description=" projet de mon sujet de stage un site permentant au chercheur des observateur de publier leur donner recolter et de reussir a les afficher dans des graphe pour voir l'evolution"
+                    description="Pendant mon stage, j'ai travaillé sur un site web facilitant la publication des recherches par les chercheurs et rendant accessibles au public les résultats de leurs observations."
                     presImage={MedicalLogi}
                 />
             </div>
